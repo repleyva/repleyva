@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @repleyva  
+# 👋 Hi, I'm Rusvel Leyva
 
 I'm an **Android Engineer**, **Technical Lead in Android**, and **Frontend Applications Leader** with over three years of experience designing, developing, and scaling native mobile and web applications. I excel in creating robust, high-performance solutions, combining technical expertise with leadership to deliver exceptional results.  
 
