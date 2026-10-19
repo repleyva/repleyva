@@ -1,33 +1,47 @@
-# 👋 Hi, I'm @repleyva
+# Hi, I'm Rusvel Leyva 👋
 
-I'm an **Android Engineer**, **Technical Lead in Android**, and **Frontend Applications Leader** with over three years of experience designing, developing, and scaling native mobile and web applications. I excel in creating robust, high-performance solutions, combining technical expertise with leadership to deliver exceptional results.  
+**Senior Software Engineer · Mobile & Frontend**
 
-## 👨‍💻 Technical Expertise  
-- **Android Development**: Deep expertise in building native applications using **Kotlin**, **Jetpack Compose**, and advanced architectural patterns like **MVI**, **MVVM**, and **Repository**.  
-- **Cloud Integration**: Proficient in integrating cloud services like **Google Cloud Platform**, optimizing application performance and scalability.  
-- **Machine Learning**: Skilled in embedding AI solutions using **TensorFlow Lite**, enabling smarter, personalized user experiences within mobile applications.  
-- **Frontend Leadership**: Extensive experience leading teams to develop **frontend solutions** across both **web** and **Android**, ensuring seamless user experiences and technical excellence.  
-- **Clean Code Advocate**: Passionate about **Clean Architecture**, writing maintainable, testable, and scalable code to drive long-term project success.  
+I build native and cross-platform apps (Android, iOS, Kotlin Multiplatform) and web frontend applications (React, Next.js). I have 5 years of experience building products, including 3+ years leading mobile teams. I use the Claude ecosystem (Claude Code, Claude Design, and MCPs) to go from idea to product faster and handle backend integrations when needed.
 
-## 🌟 Who I Am as a Professional  
-As an **engineer**, I take pride in solving complex problems with innovative and efficient solutions. My attention to detail, commitment to quality, and passion for learning have enabled me to create impactful applications that meet both technical and business goals.  
+🌐 [Portfolio](https://repleyva.netlify.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/rusvel-leyva-969b9918b/) · ✍️ [Medium](https://medium.com/@repleyva) · 📧 rusvelpassos@gmail.com
 
-As a **leader**, I strive to empower my teams by fostering collaboration, clear communication, and a shared vision. I lead by example, promoting a growth mindset and helping others develop their skills while maintaining a strong focus on delivering value. My leadership experience spans guiding Android teams and driving the development of **frontend solutions** for diverse platforms.  
+---
 
-As a **person**, I am empathetic, approachable, and driven by a deep sense of collaboration. I thrive in building trust-based relationships, both with my colleagues and stakeholders. My ability to create a positive and inclusive environment has been key to my success as a leader and team player.  
+### What I Do
 
-## 🚀 Passion for Innovation  
-I am passionate about staying at the forefront of technology, constantly learning and applying the latest tools, frameworks, and methodologies in Android and frontend development. My goal is to craft products that are not only technically sound but also intuitive and meaningful for users.  
+- **Mobile Development**: Native Android and iOS apps with Jetpack Compose and SwiftUI, or shared code with Kotlin Multiplatform and Compose Multiplatform.
+- **Web Frontend**: Fast, accessible interfaces with React, Next.js, TypeScript, and Tailwind CSS.
+- **AI-Powered Development**: Prototyping with Claude Design, building with Claude Code, and connecting MCPs to repositories and team tools.
+- **Architecture & Leadership**: Clean Architecture, MVI/MVVM, modularization, testing, CI/CD, code reviews, and mentoring.
 
-## 🎯 What Drives Me  
-- Building applications that solve real-world problems and improve users' lives.  
-- Mentoring and guiding others to unlock their potential and contribute to a shared vision.  
-- Facing new challenges head-on and growing both professionally and personally through them.  
+### Tech Stack
 
-## 💬 Let's Connect!  
-If you're looking for someone who can combine technical expertise with leadership and a collaborative mindset, I'd love to connect!  
+| Area | Technologies |
+|---|---|
+| Mobile | Kotlin · Swift · Jetpack Compose · SwiftUI · KMP · Compose Multiplatform · Room · Retrofit |
+| Web | React · Next.js · TypeScript · Tailwind CSS · Redux |
+| AI | Claude Code · Claude Design · MCP Servers · LLMs · TensorFlow Lite |
+| Backend (AI-assisted) | Firebase · Supabase · Node.js / NestJS · PostgreSQL · MongoDB |
+| DevOps | Git · CI/CD · Docker · AWS |
 
-- 🌐 Portfolio: [repleyva.netlify.app](https://repleyva.netlify.app/)  
-- 🐦 Twitter: [@repleyva](https://twitter.com/repleyva)  
-- 💼 LinkedIn: [Rusvel Leyva](https://www.linkedin.com/in/rusvel-leyva-969b9918b/)  
-- 📧 Email: rusvelpassos@gmail.com  
+### Experience
+
+- **Senior Software Engineer** · GoodRec · 2025 — Present
+- **Apps Leader** · Bolsiyo · 2023 — 2025
+- **Android Tech Lead** · Bolsiyo · 2023 — 2025
+- **Android Developer** · Bolsiyo · 2021 — 2023
+
+### Featured Projects
+
+- [**Tempus**](https://github.com/repleyva/tempus): News and weather app built with Compose, Room, Retrofit, and Paging.
+- [**Gamex**](https://github.com/repleyva/gamex): Gaming companion built with Compose and Clean Architecture.
+- [**Compose News**](https://github.com/repleyva/ComposeNews): News reader featuring MVVM architecture and unit tests.
+- [**IAssSystem**](https://github.com/repleyva/IAssSystem): Intelligent attendance system using facial recognition (Android + Python).
+
+### Articles
+
+- [Multi-Module Architecture with Clean Architecture in Kotlin Multiplatform](https://medium.com/@repleyva/arquitectura-multi-m%C3%B3dulo-con-clean-architecture-en-kotlin-multiplatform%EF%B8%8F-68d4ce7736ef)
+- [Android: MVI Architecture & Jetpack Compose](https://medium.com/@repleyva)
+
+---
